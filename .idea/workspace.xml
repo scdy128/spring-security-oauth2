@@ -37,16 +37,19 @@
     <expand />
     <select />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="spring-security-oauth2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/lilei/oauth2/server/domain/TbUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="292">
+              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -258,11 +261,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showExcludedFiles Scope="false" ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,101 +274,11 @@
               <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-samples-dependencies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lilei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lilei" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lilei" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oauth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lilei" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -693,7 +607,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30495000" />
+    <option name="totallyTimeSpent" value="30527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -709,14 +623,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" x="39" y="44" width="587" height="999" id="Project" order="1" type="WINDOWED" visible="true" weight="0.25" />
+      <window_info x="133" y="94" width="587" height="999" id="Project" order="1" type="WINDOWED" visible="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Structure" order="6" weight="0.25375536" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
@@ -746,6 +660,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1048,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/lilei/oauth2/server/domain/TbUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        <state relative-caret-position="292">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
         </state>
       </provider>
     </entry>

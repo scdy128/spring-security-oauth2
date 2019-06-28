@@ -43,7 +43,5 @@ public class TbUser implements Serializable {
     @Column(name = "updated")
     private Date updated;
 
-    private String test;
-
     private static final long serialVersionUID = 1L;
 }
